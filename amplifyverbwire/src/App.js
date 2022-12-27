@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          verbwire hack
+          verbwire hack v1
         </a>
       </header>
     </div>
